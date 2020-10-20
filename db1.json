@@ -1,0 +1,43 @@
+
+{
+  "Mobile": [
+    {
+      "Title": "Iphone",
+      "Price": 500,
+      "img": "https://i.redd.it/tpsnoz5bzo501.jpg",
+      "Brand": "Apple",
+      "Description": "Iphone XS 256 gold, Warrantyhttp://example.com/articles?page[offset]=2",
+      "Category": "Electronics"
+    }
+  ],
+  " Bike ": [
+    {
+      "Title": "Harley-Davidson",
+      "Price": "100000",
+      "img": "https: //i.redd.it/tpsnoz5bzo501.jpg",
+      "Brand": "HD",
+      "Description": "Sports High performance bike",
+      "Category": "Vehicules"
+    }
+  ],
+  " Cycle ": [
+    {
+      "Title": "Velo",
+      "Price": "450",
+      "img": "https: //i.redd.it/tpsnoz5bzo501.jpg",
+      "Brand": "Hero",
+      "Description": "Mountain bike",
+      "Category": "Vehicules"
+    }
+  ],
+  " Jacket ": [
+    {
+      "Title": "Winterjacket",
+      "Price": "245",
+      "img": "https://i.redd.it/tpsnoz5bzo501.jpg",
+      "Brand": "North Face",
+      "Description": "Winter protection upto -35",
+      "Category": "Winter wears"
+    }
+  ]
+}
